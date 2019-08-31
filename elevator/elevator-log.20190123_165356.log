@@ -1,0 +1,1263 @@
+Simulator.started
+Clock.run(): started clock at: 2019/01/23 16:53:58
+____________________________________________________________________ 0 sleepTime: 0
+ElevatorRectangle: elevator_0 to 0
+ElevatorGroup: elevator_0 to 0
+Changed Elevator elevator_0 to Floor 0
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  6 |6_4
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   0   |    STOP   |       STOP      |    | 
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 0
+____________________________________________________________________ 1 sleepTime: 1000
+person_79: 6->8
+elevator_0: floorMap changed, level: 6 toValue: true
+elevator_0: personDirection set to UP
+elevator_0: Direction set to UP
+elevator_0 moved from 0 to 1
+ElevatorRectangle: elevator_0 to 1
+ElevatorGroup: elevator_0 to 1
+Changed Elevator elevator_0 to Floor 1
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |floor_6 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   1   |     UP    |        UP       |    | 6,
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 0
+____________________________________________________________________ 2 sleepTime: 999
+elevator_0 moved from 1 to 2
+ElevatorRectangle: elevator_0 to 2
+ElevatorGroup: elevator_0 to 2
+Changed Elevator elevator_0 to Floor 2
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |floor_6 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   2   |     UP    |        UP       |    | 6,
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 0
+____________________________________________________________________ 3 sleepTime: 999
+elevator_0 moved from 2 to 3
+ElevatorRectangle: elevator_0 to 3
+ElevatorGroup: elevator_0 to 3
+Changed Elevator elevator_0 to Floor 3
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |floor_6 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   3   |     UP    |        UP       |    | 6,
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 0
+____________________________________________________________________ 4 sleepTime: 999
+elevator_0 moved from 3 to 4
+ElevatorRectangle: elevator_0 to 4
+ElevatorGroup: elevator_0 to 4
+Changed Elevator elevator_0 to Floor 4
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |floor_6 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   4   |     UP    |        UP       |    | 6,
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 0
+____________________________________________________________________ 5 sleepTime: 999
+elevator_0 moved from 4 to 5
+ElevatorRectangle: elevator_0 to 5
+ElevatorGroup: elevator_0 to 5
+Changed Elevator elevator_0 to Floor 5
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |floor_6 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   5   |     UP    |        UP       |    | 6,
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 0
+____________________________________________________________________ 6 sleepTime: 999
+elevator_0 moved from 5 to 6
+elevator_0: floorMap changed, level: 6 toValue: false
+person_79 entered elevator_0 (6s)
+elevator_0: floorMap changed, level: 8 toValue: true
+elevator_0: Direction set to UP
+ElevatorRectangle: elevator_0 to 6
+ElevatorGroup: elevator_0 to 6
+Changed Elevator elevator_0 to Floor 6
+ElevatorRectangle: elevator_1 to 0
+ElevatorGroup: elevator_1 to 0
+Changed Elevator elevator_1 to Floor 0
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  5 |5_0
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |elevator_0 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   6   |     UP    |        UP       |    | 8,
+elevator_1 |   0   |    STOP   |       STOP      |    | 
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 6
+____________________________________________________________________ 7 sleepTime: 999
+person_10: 5->3
+elevator_1: floorMap changed, level: 5 toValue: true
+elevator_1: personDirection set to DOWN
+elevator_1: targetFloorLevel set to 5
+elevator_1 targetFloorLevel set to 5
+elevator_1: Direction set to UP
+elevator_0 moved from 6 to 7
+elevator_1 moved from 0 to 1
+ElevatorRectangle: elevator_0 to 7
+ElevatorGroup: elevator_0 to 7
+Changed Elevator elevator_0 to Floor 7
+ElevatorRectangle: elevator_1 to 1
+ElevatorGroup: elevator_1 to 1
+Changed Elevator elevator_1 to Floor 1
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  3 |floor_5 - 
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  6 |  8 |elevator_0 + 
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   7   |     UP    |        UP       |    | 8,
+elevator_1 |   1   |     UP    |       DOWN      |  5 | 5,
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 6
+____________________________________________________________________ 8 sleepTime: 999
+elevator_0 moved from 7 to 8
+elevator_0: floorMap changed, level: 8 toValue: false
+person_79 exited elevator_0
+elevator_0: Direction set to STOP
+elevator_0: personDirection set to STOP
+elevator_1 moved from 1 to 2
+ElevatorRectangle: elevator_0 to 8
+ElevatorGroup: elevator_0 to 8
+Changed Elevator elevator_0 to Floor 8
+ElevatorRectangle: elevator_1 to 2
+ElevatorGroup: elevator_1 to 2
+Changed Elevator elevator_1 to Floor 2
+
+
+---------- CURRENT SITUATION ----------
+Person  | cF | tF | Object
+______________________________
+person_0|  7 |  7 |7_6
+person_1|  2 |  2 |2_1
+person_2|  2 |  2 |2_6
+person_3|  6 |  6 |6_5
+person_4|  2 |  2 |2_5
+person_5|  2 |  2 |2_0
+person_6|  8 |  8 |8_2
+person_7|  3 |  3 |3_1
+person_8|  7 |  7 |7_1
+person_9|  4 |  4 |4_2
+person_10|  5 |  3 |floor_5 - 
+person_11|  4 |  4 |4_0
+person_12|  5 |  5 |5_1
+person_13|  2 |  2 |2_5
+person_14|  9 |  9 |9_5
+person_15|  1 |  1 |1_2
+person_16|  8 |  8 |8_1
+person_17|  1 |  1 |1_5
+person_18|  2 |  2 |2_3
+person_19|  8 |  8 |8_3
+person_20|  9 |  9 |9_5
+person_21|  4 |  4 |4_3
+person_22|  9 |  9 |9_4
+person_23|  5 |  5 |5_2
+person_24|  7 |  7 |7_1
+person_25|  1 |  1 |1_1
+person_26|  8 |  8 |8_3
+person_27|  6 |  6 |6_6
+person_28|  4 |  4 |4_5
+person_29|  8 |  8 |8_1
+person_30|  8 |  8 |8_0
+person_31|  4 |  4 |4_5
+person_32|  3 |  3 |3_2
+person_33|  5 |  5 |5_3
+person_34|  7 |  7 |7_6
+person_35|  1 |  1 |1_6
+person_36|  9 |  9 |9_0
+person_37|  8 |  8 |8_2
+person_38|  7 |  7 |7_3
+person_39|  2 |  2 |2_0
+person_40|  3 |  3 |3_5
+person_41|  8 |  8 |8_0
+person_42|  1 |  1 |1_4
+person_43|  6 |  6 |6_6
+person_44|  2 |  2 |2_1
+person_45|  4 |  4 |4_0
+person_46|  3 |  3 |3_0
+person_47|  3 |  3 |3_4
+person_48|  3 |  3 |3_5
+person_49|  9 |  9 |9_3
+person_50|  9 |  9 |9_0
+person_51|  9 |  9 |9_3
+person_52|  4 |  4 |4_1
+person_53|  5 |  5 |5_3
+person_54|  3 |  3 |3_3
+person_55|  2 |  2 |2_6
+person_56|  9 |  9 |9_1
+person_57|  1 |  1 |1_3
+person_58|  5 |  5 |5_2
+person_59|  6 |  6 |6_0
+person_60|  1 |  1 |1_1
+person_61|  6 |  6 |6_1
+person_62|  7 |  7 |7_0
+person_63|  8 |  8 |8_5
+person_64|  8 |  8 |8_6
+person_65|  6 |  6 |6_4
+person_66|  1 |  1 |1_6
+person_67|  6 |  6 |6_1
+person_68|  5 |  5 |5_6
+person_69|  6 |  6 |6_3
+person_70|  4 |  4 |4_4
+person_71|  2 |  2 |2_4
+person_72|  4 |  4 |4_2
+person_73|  5 |  5 |5_0
+person_74|  3 |  3 |3_3
+person_75|  2 |  2 |2_4
+person_76|  7 |  7 |7_0
+person_77|  6 |  6 |6_5
+person_78|  6 |  6 |6_3
+person_79|  8 |  8 |8_4
+person_80|  1 |  1 |1_5
+person_81|  7 |  7 |7_3
+person_82|  7 |  7 |7_2
+person_83|  6 |  6 |6_0
+person_84|  3 |  3 |3_2
+person_85|  5 |  5 |5_1
+person_86|  2 |  2 |2_2
+person_87|  1 |  1 |1_4
+person_88|  7 |  7 |7_5
+person_89|  1 |  1 |1_0
+person_90|  5 |  5 |5_4
+person_91|  4 |  4 |4_6
+person_92|  8 |  8 |8_5
+person_93|  1 |  1 |1_0
+person_94|  8 |  8 |8_6
+person_95|  9 |  9 |9_1
+person_96|  9 |  9 |9_4
+person_97|  5 |  5 |5_6
+person_98|  2 |  2 |2_2
+person_99|  3 |  3 |3_6
+person_100|  4 |  4 |4_3
+person_101|  8 |  8 |8_4
+person_102|  4 |  4 |4_6
+person_103|  6 |  6 |6_2
+person_104|  1 |  1 |1_2
+person_105|  5 |  5 |5_5
+person_106|  7 |  7 |7_2
+person_107|  5 |  5 |5_5
+person_108|  3 |  3 |3_4
+person_109|  7 |  7 |7_4
+person_110|  7 |  7 |7_5
+person_111|  8 |  8 |8_4
+
+
+Elevators
+     id    | level | direction | personDirection | tF | floorMap
+___________________________________________________________
+elevator_0 |   8   |    STOP   |       STOP      |    | 
+elevator_1 |   2   |     UP    |       DOWN      |  5 | 5,
+
+
+getWaitingFloorsMap
+index | level | direction | isHandled
+_____________________________________
+averageTime: 6

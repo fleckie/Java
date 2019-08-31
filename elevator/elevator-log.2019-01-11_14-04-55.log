@@ -1,0 +1,1254 @@
+Clock.run(): started clock
+____________________________________________________________________
+---Person 0 created at level 2
+---Person 1 created at level 0
+---Person 2 created at level 1
+---Person 3 created at level 0
+---Person 4 created at level 6
+---Person 5 created at level 7
+---Person 6 created at level 8
+---Person 7 created at level 1
+---Person 8 created at level 2
+---Person 9 created at level 8
+---Person 10 created at level 1
+---Person 11 created at level 6
+---Person 12 created at level 1
+---Person 13 created at level 1
+---Person 14 created at level 1
+---Person 15 created at level 9
+---Person 16 created at level 4
+---Person 17 created at level 4
+---Person 18 created at level 1
+---Person 19 created at level 0
+---Person 20 created at level 6
+---Person 21 created at level 9
+Floor: 0 3
+Floor: 1 7
+Floor: 2 2
+Floor: 3 0
+Floor: 4 2
+Floor: 5 0
+Floor: 6 3
+Floor: 7 1
+Floor: 8 2
+Floor: 9 2
+Building: created 2 elevators
+BuildingHeight: 350.0
+BuildingWidth: 550.0
+floorHeight: 31.57894736842105
+roomWidth: 68.42105263157895
+Simulator.started
+____________________________________________________________________
+---Person 0 decided to stay(69)
+---Person 1 decided to move(50)
+---Person 1 decides do go from floor 0 to floor 7
+---Person 2 decided to move(36)
+---Person 2 decides do go from floor 1 to floor 8
+Elevator 0s direction set to UP
+---Person 3 decided to move(35)
+---Person 3 decides do go from floor 0 to floor 9
+---Person 4 decided to move(35)
+---Person 4 decides do go from floor 6 to floor 2
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 5 decided to stay(96)
+---Person 6 decided to move(10)
+---Person 6 decides do go from floor 8 to floor 7
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 7 decided to stay(86)
+---Person 8 decided to move(23)
+---Person 8 decides do go from floor 2 to floor 1
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 9 decided to move(28)
+---Person 9 decides do go from floor 8 to floor 0
+---Person 10 decided to move(30)
+---Person 10 decides do go from floor 1 to floor 8
+---Person 11 decided to move(24)
+---Person 11 decides do go from floor 6 to floor 2
+---Person 12 decided to move(43)
+---Person 12 decides do go from floor 1 to floor 3
+---Person 13 decided to move(8)
+---Person 13 decides do go from floor 1 to floor 6
+---Person 14 decided to stay(66)
+---Person 15 decided to move(44)
+---Person 15 decides do go from floor 9 to floor 1
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 16 decided to move(46)
+---Person 16 decides do go from floor 4 to floor 3
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 17 decided to move(11)
+---Person 17 decides do go from floor 4 to floor 3
+---Person 18 decided to move(2)
+---Person 18 decides do go from floor 1 to floor 7
+---Person 19 decided to stay(61)
+---Person 20 decided to move(50)
+---Person 20 decides do go from floor 6 to floor 9
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 21 decided to stay(57)
+Elevator 0 moved to floor 1
+---Person 2 enters elevator 0 at level 1
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 1
+---Person 10 enters elevator 1 at level 1
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 0 decided to stay(84)
+---Person 5 decided to stay(81)
+---Person 7 decided to move(0)
+---Person 7 decides do go from floor 1 to floor 7
+---Person 14 decided to stay(76)
+---Person 19 decided to move(0)
+---Person 19 decides do go from floor 0 to floor 4
+---Person 21 decided to move(5)
+---Person 21 decides do go from floor 9 to floor 8
+Elevator 0 moved to floor 2
+Elevator 1 moved to floor 2
+____________________________________________________________________
+---Person 0 decided to move(50)
+---Person 0 decides do go from floor 2 to floor 5
+---Person 5 decided to move(24)
+---Person 5 decides do go from floor 7 to floor 3
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 14 decided to stay(80)
+Elevator 0 moved to floor 3
+Elevator 1 moved to floor 3
+____________________________________________________________________
+---Person 14 decided to move(24)
+---Person 14 decides do go from floor 1 to floor 7
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 6
+---Person 20 enters elevator 0 at level 6
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 6
+____________________________________________________________________
+Elevator 0 moved to floor 7
+Elevator 1 moved to floor 7
+____________________________________________________________________
+Elevator 0 moved to floor 8
+---Person 2 exits elevator 0 at level 8
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 8
+Elevator 1s direction set to STOP
+---Person 10 exits elevator 1 at level 8
+---Person 6 enters elevator 1 at level 8
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 2 decided to stay(72)
+---Person 10 decided to move(49)
+---Person 10 decides do go from floor 8 to floor 9
+Elevator 0 moved to floor 9
+---Person 20 exits elevator 0 at level 9
+Elevator 1 moved to floor 7
+Elevator 1s direction set to STOP
+---Person 6 exits elevator 1 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 5 enters elevator 1 at level 7
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 2 decided to move(41)
+---Person 2 decides do go from floor 8 to floor 1
+---Person 6 decided to stay(52)
+---Person 20 decided to stay(77)
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 6 decided to stay(75)
+---Person 20 decided to move(49)
+---Person 20 decides do go from floor 9 to floor 4
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 6 decided to stay(71)
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 6 decided to stay(79)
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 6 decided to move(5)
+---Person 6 decides do go from floor 7 to floor 0
+Elevator 0s direction set to DOWN
+Elevator 0 moved to floor 8
+---Person 9 enters elevator 0 at level 8
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 6
+---Person 4 enters elevator 1 at level 6
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 7
+---Person 6 enters elevator 0 at level 7
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 6
+---Person 11 enters elevator 0 at level 6
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 4
+---Person 16 enters elevator 1 at level 4
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 3
+---Person 5 exits elevator 1 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 5 decided to stay(65)
+Elevator 0 moved to floor 4
+---Person 17 enters elevator 0 at level 4
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 2
+Elevator 1s direction set to STOP
+---Person 4 exits elevator 1 at level 2
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 8 enters elevator 1 at level 2
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 4 decided to stay(56)
+---Person 5 decided to move(6)
+---Person 5 decides do go from floor 3 to floor 1
+Elevator 0s direction set to DOWN
+Elevator 1s direction set to UP
+Elevator 0 moved to floor 3
+---Person 17 exits elevator 0 at level 3
+---Person 5 enters elevator 0 at level 3
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+---Person 16 exits elevator 1 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 4 decided to move(48)
+---Person 4 decides do go from floor 2 to floor 3
+---Person 16 decided to move(6)
+---Person 16 decides do go from floor 3 to floor 9
+---Person 17 decided to stay(77)
+Elevator 0 moved to floor 2
+---Person 11 exits elevator 0 at level 2
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 4
+____________________________________________________________________
+---Person 11 decided to stay(56)
+---Person 17 decided to stay(68)
+Elevator 0 moved to floor 1
+---Person 5 exits elevator 0 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 5
+____________________________________________________________________
+---Person 5 decided to stay(61)
+---Person 11 decided to move(16)
+---Person 11 decides do go from floor 2 to floor 5
+---Person 17 decided to stay(54)
+Elevator 0 moved to floor 0
+Elevator 0s direction set to STOP
+---Person 9 exits elevator 0 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 1 enters elevator 0 at level 0
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 6
+____________________________________________________________________
+---Person 5 decided to move(15)
+---Person 5 decides do go from floor 1 to floor 8
+---Person 9 decided to stay(62)
+---Person 17 decided to move(8)
+---Person 17 decides do go from floor 3 to floor 7
+Elevator 0 moved to floor 1
+---Person 12 enters elevator 0 at level 1
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 9 decided to move(23)
+---Person 9 decides do go from floor 0 to floor 2
+Elevator 0 moved to floor 2
+---Person 0 enters elevator 0 at level 2
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 8
+---Person 10 enters elevator 1 at level 8
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 3
+---Person 12 exits elevator 0 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 16 enters elevator 0 at level 3
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 9
+---Person 10 exits elevator 1 at level 9
+____________________________________________________________________
+---Person 10 decided to move(13)
+---Person 10 decides do go from floor 9 to floor 7
+---Person 12 decided to move(10)
+---Person 12 decides do go from floor 3 to floor 0
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 8
+---Person 2 enters elevator 1 at level 8
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 5
+---Person 0 exits elevator 0 at level 5
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 0 decided to move(10)
+---Person 0 decides do go from floor 5 to floor 0
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 6
+Elevator 1 moved to floor 6
+____________________________________________________________________
+Elevator 0 moved to floor 7
+---Person 1 exits elevator 0 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 5
+---Person 0 enters elevator 1 at level 5
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to move(13)
+---Person 1 decides do go from floor 7 to floor 3
+Elevator 1s direction set to UP
+Elevator 0 moved to floor 8
+Elevator 1 moved to floor 6
+____________________________________________________________________
+Elevator 0 moved to floor 9
+Elevator 0s direction set to STOP
+---Person 16 exits elevator 0 at level 9
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 15 enters elevator 0 at level 9
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 16 decided to stay(93)
+Elevator 0 moved to floor 8
+Elevator 1 moved to floor 8
+____________________________________________________________________
+---Person 16 decided to move(1)
+---Person 16 decides do go from floor 9 to floor 7
+Elevator 0 moved to floor 7
+---Person 1 enters elevator 0 at level 7
+Elevator 0s direction set to DOWN
+Elevator 1 moved to floor 9
+____________________________________________________________________
+Elevator 0 moved to floor 6
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 5
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 4
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 3
+---Person 1 exits elevator 0 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 12 enters elevator 0 at level 3
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to stay(95)
+Elevator 0 moved to floor 2
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to stay(57)
+Elevator 0 moved to floor 1
+---Person 15 exits elevator 0 at level 1
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to move(36)
+---Person 1 decides do go from floor 3 to floor 2
+Elevator 0s direction set to UP
+Elevator 1s direction set to DOWN
+---Person 15 decided to stay(91)
+Elevator 0 moved to floor 2
+---Person 4 enters elevator 0 at level 2
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 8
+____________________________________________________________________
+---Person 15 decided to stay(57)
+Elevator 0 moved to floor 3
+---Person 4 exits elevator 0 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 17 enters elevator 0 at level 3
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 4 decided to move(28)
+---Person 4 decides do go from floor 3 to floor 6
+Elevator 1s direction set to DOWN
+---Person 15 decided to move(23)
+---Person 15 decides do go from floor 1 to floor 3
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 6
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 6
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 7
+---Person 17 exits elevator 0 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+---Person 1 enters elevator 1 at level 3
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 17 decided to stay(97)
+Elevator 0 moved to floor 8
+Elevator 1 moved to floor 2
+---Person 1 exits elevator 1 at level 2
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to stay(85)
+---Person 17 decided to stay(66)
+Elevator 0 moved to floor 9
+Elevator 1 moved to floor 1
+---Person 8 exits elevator 1 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to move(34)
+---Person 1 decides do go from floor 2 to floor 3
+---Person 8 decided to stay(98)
+---Person 17 decided to move(3)
+---Person 17 decides do go from floor 7 to floor 3
+Elevator 0s direction set to DOWN
+Elevator 1s direction set to UP
+Elevator 0 moved to floor 8
+Elevator 1 moved to floor 2
+---Person 11 enters elevator 1 at level 2
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 8 decided to move(50)
+---Person 8 decides do go from floor 1 to floor 3
+Elevator 0 moved to floor 7
+---Person 17 enters elevator 0 at level 7
+Elevator 0s direction set to DOWN
+Elevator 1 moved to floor 3
+---Person 4 enters elevator 1 at level 3
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 6
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+---Person 11 exits elevator 1 at level 5
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 11 decided to move(17)
+---Person 11 decides do go from floor 5 to floor 0
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 6
+---Person 4 exits elevator 1 at level 6
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 4 decided to stay(64)
+Elevator 0 moved to floor 3
+---Person 17 exits elevator 0 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 4 decided to move(32)
+---Person 4 decides do go from floor 6 to floor 1
+Elevator 0s direction set to UP
+Elevator 1s direction set to DOWN
+---Person 17 decided to stay(81)
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 6
+---Person 4 enters elevator 1 at level 6
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 17 decided to stay(93)
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+---Person 11 enters elevator 1 at level 5
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 17 decided to move(0)
+---Person 17 decides do go from floor 3 to floor 1
+Elevator 0s direction set to DOWN
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 3
+---Person 17 enters elevator 0 at level 3
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+____________________________________________________________________
+Elevator 0 moved to floor 2
+Elevator 1 moved to floor 2
+____________________________________________________________________
+Elevator 0 moved to floor 1
+---Person 17 exits elevator 0 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 1
+---Person 2 exits elevator 1 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 2 decided to stay(74)
+---Person 17 decided to stay(57)
+Elevator 0 moved to floor 0
+Elevator 0s direction set to STOP
+---Person 6 exits elevator 0 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 3 enters elevator 0 at level 0
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 0
+Elevator 1s direction set to STOP
+---Person 0 exits elevator 1 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 19 enters elevator 1 at level 0
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 0 decided to move(11)
+---Person 0 decides do go from floor 0 to floor 8
+---Person 2 decided to move(47)
+---Person 2 decides do go from floor 1 to floor 0
+Elevator 0s direction set to UP
+Elevator 1s direction set to UP
+---Person 6 decided to move(1)
+---Person 6 decides do go from floor 0 to floor 3
+---Person 17 decided to stay(91)
+Elevator 0 moved to floor 1
+---Person 13 enters elevator 0 at level 1
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 1
+---Person 4 exits elevator 1 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 18 enters elevator 1 at level 1
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 4 decided to stay(53)
+---Person 17 decided to stay(77)
+Elevator 0 moved to floor 2
+---Person 1 enters elevator 0 at level 2
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 2
+____________________________________________________________________
+---Person 4 decided to move(38)
+---Person 4 decides do go from floor 1 to floor 8
+---Person 17 decided to move(37)
+---Person 17 decides do go from floor 1 to floor 2
+Elevator 0 moved to floor 3
+---Person 1 exits elevator 0 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+____________________________________________________________________
+---Person 1 decided to stay(91)
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 4
+---Person 19 exits elevator 1 at level 4
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to stay(87)
+---Person 19 decided to move(27)
+---Person 19 decides do go from floor 4 to floor 1
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+____________________________________________________________________
+---Person 1 decided to move(26)
+---Person 1 decides do go from floor 3 to floor 1
+Elevator 0s direction set to DOWN
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 4
+---Person 19 enters elevator 0 at level 4
+Elevator 0s direction set to DOWN
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 3
+---Person 1 enters elevator 0 at level 3
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+____________________________________________________________________
+Elevator 0 moved to floor 2
+Elevator 1 moved to floor 2
+____________________________________________________________________
+Elevator 0 moved to floor 1
+---Person 19 exits elevator 0 at level 1
+---Person 2 enters elevator 0 at level 1
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 1
+____________________________________________________________________
+---Person 19 decided to move(43)
+---Person 19 decides do go from floor 1 to floor 0
+Elevator 0 moved to floor 0
+Elevator 0s direction set to STOP
+---Person 12 exits elevator 0 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 9 enters elevator 0 at level 0
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 0
+Elevator 1s direction set to STOP
+---Person 11 exits elevator 1 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 0 enters elevator 1 at level 0
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 11 decided to move(17)
+---Person 11 decides do go from floor 0 to floor 9
+---Person 12 decided to move(38)
+---Person 12 decides do go from floor 0 to floor 7
+Elevator 0 moved to floor 1
+---Person 1 exits elevator 0 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 7 enters elevator 0 at level 1
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 1
+---Person 14 enters elevator 1 at level 1
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 1 decided to stay(78)
+Elevator 0 moved to floor 2
+---Person 9 exits elevator 0 at level 2
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 2
+____________________________________________________________________
+---Person 1 decided to move(50)
+---Person 1 decides do go from floor 1 to floor 7
+---Person 9 decided to move(6)
+---Person 9 decides do go from floor 2 to floor 7
+Elevator 0 moved to floor 3
+Elevator 1 moved to floor 3
+____________________________________________________________________
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 6
+---Person 13 exits elevator 0 at level 6
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 6
+____________________________________________________________________
+---Person 13 decided to move(11)
+---Person 13 decides do go from floor 6 to floor 8
+Elevator 0 moved to floor 7
+---Person 7 exits elevator 0 at level 7
+Elevator 1 moved to floor 7
+---Person 18 exits elevator 1 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 7 decided to move(17)
+---Person 7 decides do go from floor 7 to floor 0
+---Person 18 decided to move(20)
+---Person 18 decides do go from floor 7 to floor 5
+Elevator 0 moved to floor 8
+Elevator 1 moved to floor 8
+Elevator 1s direction set to STOP
+---Person 0 exits elevator 1 at level 8
+____________________________________________________________________
+---Person 0 decided to stay(78)
+Elevator 0 moved to floor 9
+Elevator 0s direction set to STOP
+---Person 3 exits elevator 0 at level 9
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 21 enters elevator 0 at level 9
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 0 decided to stay(79)
+---Person 3 decided to move(38)
+---Person 3 decides do go from floor 9 to floor 6
+Elevator 0 moved to floor 8
+Elevator 0s direction set to STOP
+---Person 21 exits elevator 0 at level 8
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 0 decided to move(28)
+---Person 0 decides do go from floor 8 to floor 0
+---Person 21 decided to stay(99)
+---Person 0 enters elevator 0 at level 8
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 21 decided to stay(87)
+Elevator 0 moved to floor 7
+---Person 7 enters elevator 0 at level 7
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 21 decided to move(24)
+---Person 21 decides do go from floor 8 to floor 6
+Elevator 0s direction set to UP
+Elevator 0 moved to floor 8
+---Person 21 enters elevator 1 at level 8
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 9
+Elevator 1 moved to floor 7
+---Person 14 exits elevator 1 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 18 enters elevator 1 at level 7
+Elevator 1s direction set to DOWN
+____________________________________________________________________
+---Person 14 decided to stay(55)
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 14 decided to stay(87)
+---------------------------------
+ERROR: 10
+---------------------------------
+____________________________________________________________________
+---Person 14 decided to move(2)
+---Person 14 decides do go from floor 7 to floor 1
+Elevator 0s direction set to DOWN
+Elevator 0 moved to floor 8
+Elevator 1 moved to floor 6
+---Person 21 exits elevator 1 at level 6
+____________________________________________________________________
+---Person 21 decided to stay(76)
+Elevator 0 moved to floor 7
+---Person 14 enters elevator 0 at level 7
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 5
+Elevator 1s direction set to STOP
+---Person 18 exits elevator 1 at level 5
+____________________________________________________________________
+---Person 18 decided to stay(99)
+---Person 21 decided to move(2)
+---Person 21 decides do go from floor 6 to floor 1
+Elevator 0s direction set to DOWN
+Elevator 0 moved to floor 6
+---Person 21 enters elevator 0 at level 6
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 18 decided to move(26)
+---Person 18 decides do go from floor 5 to floor 0
+Elevator 0s direction set to DOWN
+Elevator 0 moved to floor 5
+---Person 18 enters elevator 0 at level 5
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 3
+____________________________________________________________________
+Elevator 0 moved to floor 2
+____________________________________________________________________
+Elevator 0 moved to floor 1
+---Person 14 exits elevator 0 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 19 enters elevator 0 at level 1
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 14 decided to stay(58)
+Elevator 0 moved to floor 0
+Elevator 0s direction set to STOP
+---Person 2 exits elevator 0 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 6 enters elevator 0 at level 0
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 2 decided to stay(85)
+---Person 14 decided to move(46)
+---Person 14 decides do go from floor 1 to floor 3
+Elevator 0 moved to floor 1
+---Person 21 exits elevator 0 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 5 enters elevator 0 at level 1
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 2 decided to move(7)
+---Person 2 decides do go from floor 0 to floor 7
+---Person 21 decided to move(19)
+---Person 21 decides do go from floor 1 to floor 5
+Elevator 0 moved to floor 2
+---Person 9 enters elevator 0 at level 2
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 3
+---Person 6 exits elevator 0 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 6 decided to stay(96)
+Elevator 0 moved to floor 4
+____________________________________________________________________
+---Person 6 decided to move(23)
+---Person 6 decides do go from floor 3 to floor 2
+Elevator 0s direction set to DOWN
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 3
+---Person 6 enters elevator 0 at level 3
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 2
+---Person 6 exits elevator 0 at level 2
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+Elevator 1s direction set to STOP
+____________________________________________________________________
+---Person 6 decided to stay(65)
+Elevator 0 moved to floor 1
+____________________________________________________________________
+---Person 6 decided to move(4)
+---Person 6 decides do go from floor 2 to floor 1
+Elevator 0s direction set to UP
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 2
+Elevator 1 moved to floor 2
+Elevator 1s direction set to STOP
+---Person 6 enters elevator 1 at level 2
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 3
+Elevator 1 moved to floor 1
+Elevator 1s direction set to STOP
+---Person 6 exits elevator 1 at level 1
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 15 enters elevator 1 at level 1
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 6 decided to move(27)
+---Person 6 decides do go from floor 1 to floor 3
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 2
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 3
+Elevator 1s direction set to STOP
+---Person 15 exits elevator 1 at level 3
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 15 decided to move(28)
+---Person 15 decides do go from floor 3 to floor 8
+Elevator 0s direction set to DOWN
+Elevator 0 moved to floor 4
+---Person 15 enters elevator 1 at level 3
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 3
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 2
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 1
+Elevator 1 moved to floor 6
+---Person 13 enters elevator 1 at level 6
+Elevator 1s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 0
+Elevator 0s direction set to STOP
+---Person 0 exits elevator 0 at level 0
+---------------------------------
+ERROR: null
+---------------------------------
+---Person 11 enters elevator 0 at level 0
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 0 decided to move(4)
+---Person 0 decides do go from floor 0 to floor 3
+Elevator 0 moved to floor 1
+---Person 8 enters elevator 0 at level 1
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 8
+Elevator 1s direction set to STOP
+---Person 15 exits elevator 1 at level 8
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 15 decided to move(10)
+---Person 15 decides do go from floor 8 to floor 5
+Elevator 0s direction set to UP
+Elevator 0 moved to floor 2
+---Person 15 enters elevator 1 at level 8
+Elevator 1s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+Elevator 0 moved to floor 3
+---Person 8 exits elevator 0 at level 3
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 8 decided to move(11)
+---Person 8 decides do go from floor 3 to floor 2
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 4
+Elevator 1 moved to floor 6
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+---Person 15 exits elevator 1 at level 5
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 15 decided to move(26)
+---Person 15 decides do go from floor 5 to floor 0
+Elevator 0 moved to floor 6
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 7
+---Person 9 exits elevator 0 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+Elevator 1s direction set to STOP
+---Person 8 enters elevator 1 at level 3
+Elevator 1s direction set to DOWN
+____________________________________________________________________
+---Person 9 decided to stay(85)
+Elevator 0 moved to floor 8
+---Person 5 exits elevator 0 at level 8
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 2
+Elevator 1s direction set to STOP
+---Person 8 exits elevator 1 at level 2
+---------------------------------
+ERROR: null
+---------------------------------
+____________________________________________________________________
+---Person 5 decided to move(10)
+---Person 5 decides do go from floor 8 to floor 1
+Elevator 1s direction set to UP
+---Person 8 decided to move(33)
+---Person 8 decides do go from floor 2 to floor 7
+Elevator 0s direction set to DOWN
+---Person 9 decided to move(29)
+---Person 9 decides do go from floor 7 to floor 4
+Elevator 0s direction set to DOWN
+Elevator 1s direction set to UP
+Elevator 0 moved to floor 7
+---Person 9 enters elevator 0 at level 7
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+____________________________________________________________________
+Elevator 0 moved to floor 6
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 5
+---Person 15 enters elevator 0 at level 5
+Elevator 0s direction set to DOWN
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 4
+---Person 9 exits elevator 0 at level 4
+Elevator 1 moved to floor 6
+____________________________________________________________________
+---Person 9 decided to stay(51)
+Elevator 0 moved to floor 3
+Elevator 1 moved to floor 7
+____________________________________________________________________
+---Person 9 decided to move(43)
+---Person 9 decides do go from floor 4 to floor 7
+Elevator 0s direction set to UP
+Elevator 1s direction set to DOWN
+Elevator 0 moved to floor 4
+---Person 9 enters elevator 0 at level 4
+Elevator 0s direction set to UP
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 6
+____________________________________________________________________
+Elevator 0 moved to floor 5
+Elevator 1 moved to floor 5
+____________________________________________________________________
+Elevator 0 moved to floor 6
+Elevator 1 moved to floor 4
+____________________________________________________________________
+Elevator 0 moved to floor 7
+---Person 9 exits elevator 0 at level 7
+---------------------------------
+ERROR: null
+---------------------------------
+Elevator 1 moved to floor 3
+Clock.run(): stopped clock

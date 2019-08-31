@@ -1,0 +1,5 @@
+1) verstehen
+2) in java implementieren
+3) bsp hochladen (git)
+4)readme beschreibung 
+5)deadline 22.04 
